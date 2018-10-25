@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on DragonFly Documentation</title>
+    <link>https://alibaba.github.io/Dragonfly/overview/</link>
+    <description>Recent content in Overview on DragonFly Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://alibaba.github.io/Dragonfly/overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Is Dragonfly</title>
+      <link>https://alibaba.github.io/Dragonfly/overview/what_is_dragonfly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/overview/what_is_dragonfly/</guid>
+      <description>&lt;p&gt;Dragonfly is an intelligent P2P based image and file distribution system. It aims to resolve issues related to low-efficiency, low-success rate and waste of network bandwidth in file transferring process.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Terminology</title>
+      <link>https://alibaba.github.io/Dragonfly/overview/terminology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/overview/terminology/</guid>
+      <description>This topic lists the common terms used throughout Dragonfly.
+SuperNode SuperNode is a long-time process with two primary responsibilities: * It&amp;rsquo;s the tracker and scheduler in the P2P network that choose appropriate downloading net-path for each peer. * It&amp;rsquo;s also a CDN server that caches downloaded data from source to avoid downloading same files repeatedly.
+dfget Dfget is the client of Dragonfly used for downloading files. It&amp;rsquo;s similar to using wget.</description>
+    </item>
+    
+  </channel>
+</rss>

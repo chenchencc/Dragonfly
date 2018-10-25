@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dragonfly on DragonFly Documentation</title>
+    <link>https://alibaba.github.io/Dragonfly/</link>
+    <description>Recent content in Dragonfly on DragonFly Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://alibaba.github.io/Dragonfly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>APIs Provided by Supernode</title>
+      <link>https://alibaba.github.io/Dragonfly/api_reference/api_supernode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/api_reference/api_supernode/</guid>
+      <description>&lt;p&gt;This topic explains how to use the APIs provided by Supernode.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing Server</title>
+      <link>https://alibaba.github.io/Dragonfly/user_guide/install_server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/user_guide/install_server/</guid>
+      <description>&lt;p&gt;This guide provides instructions for developers to build and run cluster manager (supernode) from source code.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What Is Dragonfly</title>
+      <link>https://alibaba.github.io/Dragonfly/overview/what_is_dragonfly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/overview/what_is_dragonfly/</guid>
+      <description>&lt;p&gt;Dragonfly is an intelligent P2P based image and file distribution system. It aims to resolve issues related to low-efficiency, low-success rate and waste of network bandwidth in file transferring process.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>dfdaemon</title>
+      <link>https://alibaba.github.io/Dragonfly/cli_reference/dfdaemon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/cli_reference/dfdaemon/</guid>
+      <description>&lt;p&gt;This topic explains how to use the dfdaemon command.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Install Client</title>
+      <link>https://alibaba.github.io/Dragonfly/user_guide/install_client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/user_guide/install_client/</guid>
+      <description>&lt;p&gt;This topic explains how to install the client.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preheat API</title>
+      <link>https://alibaba.github.io/Dragonfly/api_reference/api_preheat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/api_reference/api_preheat/</guid>
+      <description>&lt;p&gt;This topic explains how to use the Preheat API.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Terminology</title>
+      <link>https://alibaba.github.io/Dragonfly/overview/terminology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/overview/terminology/</guid>
+      <description>This topic lists the common terms used throughout Dragonfly.
+SuperNode SuperNode is a long-time process with two primary responsibilities: * It&amp;rsquo;s the tracker and scheduler in the P2P network that choose appropriate downloading net-path for each peer. * It&amp;rsquo;s also a CDN server that caches downloaded data from source to avoid downloading same files repeatedly.
+dfget Dfget is the client of Dragonfly used for downloading files. It&amp;rsquo;s similar to using wget.</description>
+    </item>
+    
+    <item>
+      <title>dfget</title>
+      <link>https://alibaba.github.io/Dragonfly/cli_reference/dfget/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/cli_reference/dfget/</guid>
+      <description>&lt;p&gt;This topic explains how to use the dfget command.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distribuiting Files</title>
+      <link>https://alibaba.github.io/Dragonfly/user_guide/download_files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/user_guide/download_files/</guid>
+      <description>&lt;p&gt;This topic explains how to distribute files with Dragonfly.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SuperNode Configuration</title>
+      <link>https://alibaba.github.io/Dragonfly/user_guide/supernode_configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/user_guide/supernode_configuration/</guid>
+      <description>&lt;p&gt;This topic explains the configuration of SuperNode.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contributing Guide</title>
+      <link>https://alibaba.github.io/Dragonfly/contributing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/contributing/</guid>
+      <description>It is warmly welcomed if you have interest to hack on Dragonfly. First, we encourage this kind of willing very much. And here is a list of contributing guide for you.
+Topics  Reporting security issues Reporting general issues Code and doc contribution Engage to help anything  Reporting security issues Security issues are always treated seriously. As our usual principle, we discourage anyone to spread security issues. If you find a security issue of Dragonfly, please do not discuss it in public and even do not open a public issue.</description>
+    </item>
+    
+    <item>
+      <title>Contributor Covenant Code of Conduct</title>
+      <link>https://alibaba.github.io/Dragonfly/code_of_conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/code_of_conduct/</guid>
+      <description>Our Pledge In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Our Standards Examples of behavior that contributes to creating a positive environment include:</description>
+    </item>
+    
+    <item>
+      <title>Maintainers</title>
+      <link>https://alibaba.github.io/Dragonfly/maintainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/maintainers/</guid>
+      <description>   GitHub ID Name Email Company     allencloud Allen Sun allensun.shl@alibaba-inc.com Alibaba Group   chenchaobing Chaobing Chen chenchaobing@126.com Meitu   garfield009 Zuozheng Hu zuozheng.hzz@alibaba-inc.com Alibaba Group   lowzj Jin Zhang zj3142063@gmail.com Alibaba Group   wangj998 Jian Wang mingzhi.wj@alibaba-inc.com Alibaba Group   zhouhaibing089 Haibing Zhou zhouhaibing089@gmail.com Ebay China    </description>
+    </item>
+    
+    <item>
+      <title>Roadmap</title>
+      <link>https://alibaba.github.io/Dragonfly/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alibaba.github.io/Dragonfly/roadmap/</guid>
+      <description> CNCF Ecosystem  Deploy SuperNode using Helm in Kubernetes Deploy dfget &amp;amp; dfdaemon using DaemonSet in Kubernetes Integration with Harbor: preheat image feature  Security  Support private container image Support authentication in SuperNode API Different encryption algorithm in data transmission  Efficiency  Dynamic downloading rate limiting and scheduling algorithm Use IPFS to share block datas between SuperNodes  Openness  Plug-In policy for CNCF projects Highly user-customized modules Refactor SuperNode with Golang  Scalability  Simplify the complexity of scaling SuperNodes in Kubernetes  Stability  Cluster the SuperNode to decrease possibility of failure  </description>
+    </item>
+    
+  </channel>
+</rss>
